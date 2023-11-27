@@ -5,15 +5,15 @@ theme = 'terminal'
 
 [[menu.main]]
   name = "A propos"
-  url = "/a-propos"
+  url = "/about"
 
 [[menu.main]]
-  name = "Veille Tehchnologique"
+  name = "Veille Technologique"
   url = "/veille/veille"
   
 [[menu.footer]]
   name = "A propos"
-  url = "/a-propos"
+  url = "/about"
 
 [markup.goldmark.renderer]
   unsafe= true
