@@ -7,8 +7,8 @@ Quimper au Lycée Professionnel Jean Chaptal en BTS SIO option SISR.
 
 J'ai appris l'informatique depuis assez jeune à mes dépends, je travaille tous
 les soirs en tant que 
-[Level Designer](https://azrael-iii.github.io/Portfolio.github.io/level_designer) en télétravail au
-studio [NightDive Studios](https://azrael-iii.github.io/Portfolio.github.io/nightdive/)
+[Level Designer](https://azrael-iii.github.io/portfolio.github.io/level_designer) en télétravail au
+studio [NightDive Studios](https://azrael-iii.github.io/portfolio.github.io/nightdive/)
 basé à Toronto, au Canada.
 ***
 ### - _Expériences professionnelles_
@@ -31,9 +31,9 @@ vente de produits informatiques et relation clientelle)
 fait de la facturation et de la gestion-comptabilité des clients et des devis 
 clients)
 
-|[![CV](https://azrael-iii.github.io/Portfolio.github.io/pics/pdf.png)](https://azrael-iii.github.io/Portfolio.github.io/docs/CV_Vincent_Hascoet.pdf)|[![Lettre de motivation](https://azrael-iii.github.io/Portfolio.github.io/pics/pdf.png)](https://azrael-iii.github.io/Portfolio.github.io/docs/Lettre_de_Motivation_Vincent_Hascoet.pdf)|
+|[![CV](https://azrael-iii.github.io/portfolio.github.io/pics/pdf.png)](https://azrael-iii.github.io/portfolio.github.io/docs/CV_Vincent_Hascoet.pdf)|[![Lettre de motivation](https://azrael-iii.github.io/portfolio.github.io/pics/pdf.png)](https://azrael-iii.github.io/portfolio.github.io/docs/Lettre_de_Motivation_Vincent_Hascoet.pdf)|
 |---|---|
 |CV|Lettre de Motivation|
 ***
-### - _Je vais également vous proposer ma [veille technologique](https://azrael-iii.github.io/Portfolio.github.io/veille/veille)_
+### - _Je vais également vous proposer ma [veille technologique](https://azrael-iii.github.io/portfolio.github.io/veille/veille)_
 ***

@@ -19,7 +19,7 @@ d'entre-eux, du côté technique (comment ils ont été développés et ingéni�
 ainisi que le côté pratique (dans quels domaines ils ont été exploîtés et
 pourquoi).
 
-<div align="center"><button onclick="window.location.href='https://azrael-iii.github.io/Portfolio.github.io/veille/veille_p2';">Suivant</button></div>
+<div align="center"><button onclick="window.location.href='https://azrael-iii.github.io/portfolio.github.io/veille/veille_p2';">Suivant</button></div>
 ***
-<div align="left"><button onclick="window.location.href='https://azrael-iii.github.io/Portfolio.github.io/';">Retour à l'accueil</button></div>
+<div align="left"><button onclick="window.location.href='https://azrael-iii.github.io/portfolio.github.io/';">Retour à l'accueil</button></div>
 ***
