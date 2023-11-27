@@ -14,8 +14,7 @@ voxels, des reflets dynamiques.
 
 Voilà la démo technique en question :
 
-{{<youtube id="26I-Pw-yPJ4" title="FlyBy Demo" mute="true" quality="720">}}
-{{<video src="https://azrael-iii.github.io/portfolio.github.io/vids/UE1_flyby_intro.mp4">}}
+{{<video src="https://azrael-iii.github.io/portfolio.github.io/vids/UE1_flyby_intro.mp4" height="640" width="480">}}
 
 ***
 <div align="left"><button onclick="window.location.href='https://azrael-iii.github.io/portfolio.github.io/veille/veille_p3';">Precédent</button></div> 
