@@ -20,7 +20,24 @@ Voilà la démo technique en question :
 ***
 
 Un Voxel est, en quelque sorte, un pixel en trois dimensions, en voici un :
-{{<figure src="https://azrael-iii.github.io/portfolio.github.io/pics/voxel_example.webp" alt="Exemple de Voxel" position="center" style="border-radius: 8px;" caption="Exemple de Voxel" captionPosition="right" captionStyle="color: red;" >}}
+{{<figure src="https://azrael-iii.github.io/portfolio.github.io/pics/voxel_example.webp" alt="Exemple de Voxel" position="center" style="border-radius: 8px;" caption="Voici un voxel" captionPosition="right" captionStyle="color: black;" >}}
+
+Il s'agit d'un type de pixel qui permet de générer des scènes en 3D "sans"
+polygônes, cela permettait à une certaine époque, d'avoir des modèles 3D sans
+avoir aucune vertrice, car cela est considéré comme un pixel normal.
+***
+Le moteur permet également d'avoir des modèles avec des squelettes d'animations,
+il s'agit du système d'animation désormais le plus utilisé, mais qui était
+révolutionnaire à l'époque, car avant, il fallait avoir une liste de positions
+pour chaque animation de chaque modèle 3d.
+
+Maintenant, il suffit d'un seul fichier d'animations lié à un modèle,
+qui contient toutes les animations d'un seul modèle dans un seul fichier 
+( optimisant 2x mieux les rendus, car cela est simplement plus simple d'avoir
+des animations lié à un modèle, plutôt que de remodeler chaque modèle pour
+chaque animation ).
+
+{{<figure src="https://azrael-iii.github.io/portfolio.github.io/pics/skeleton_bodies.webp" alt="Exemple de Voxel" position="center" style="border-radius: 8px;" caption="Voici un squelette sur Unreal" captionPosition="right" captionStyle="color: black;" >}}
 
 
 ***
