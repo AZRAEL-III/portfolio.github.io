@@ -14,7 +14,14 @@ voxels, des reflets dynamiques.
 
 Voilà la démo technique en question :
 
-{{<video src="https://azrael-iii.github.io/portfolio.github.io/vids/UE1_flyby_intro.mp4" height="640" width="480">}}
+{{<video src="https://azrael-iii.github.io/portfolio.github.io/vids/UE1_flyby_intro.mp4" height="640" width="640">}}
+
+## Qu'est-ce qu'un voxel ?
+***
+
+Un Voxel est, en quelque sorte, un pixel en trois dimensions, en voici un :
+{{<figure src="https://azrael-iii.github.io/portfolio.github.io/pics/voxel_example.webp" alt="Exemple de Voxel" position="center" style="border-radius: 8px;" caption="Exemple de Voxel" captionPosition="right" captionStyle="color: red;" >}}
+
 
 ***
 <div align="left"><button onclick="window.location.href='https://azrael-iii.github.io/portfolio.github.io/veille/veille_p3';">Precédent</button></div> 
