@@ -1,3 +1,22 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://azrael-iii.github.io/portfolio.github.io/'
+languageCode = 'fr-fr'
+title = 'Portfolio'
+theme = 'terminal'
+
+[[menu.main]]
+  name = "A propos"
+  url = "/a-propos"
+
+[[menu.main]]
+  name = "Veille Tehchnologique"
+  url = "/veille/veille"
+  
+[[menu.footer]]
+  name = "A propos"
+  url = "/a-propos"
+
+[markup.goldmark.renderer]
+  unsafe= true
+
+[params]
+  enableEmoji= true
