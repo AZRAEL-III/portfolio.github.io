@@ -8,7 +8,7 @@ la 3D dans le monde de l'informatique, ce moteur à _UNE SEULE_ particularité, 
 à été conçu intégralement autour d'un processeur : Le tout premier Intel Pentium
 . 
 
-![Photo Pentium I](https://azrael.iii.github.io/portfolio.github.io/pics/pentium.webp)
+{{<figure src="https://azrael-iii.github.io/portfolio.github.io/pics/pentium.webp" alt="Pentium_1_pics" position="center" style="border-radius: 8px;" caption="L'un des premiers Intel Pentium" captionPosition="right" captionStyle="color: black;" >}}
 
 Ce moteur permet d'utiliser des modèles 3D pour les personnages, les effets
 visuels et pour les éclairages.
@@ -23,7 +23,7 @@ il est l'un des acteurs majeurs du code libre (Open Source), il à mis le
 code-source en ligne en Juillet 1998 (le moteur est sorti en 1997, en même temps
 que le jeu Quake).
 
-![Image Quake](https://azrael-iii.github.io/portfolio.github.io/pics/quake.webp)
+{{<figure src="https://azrael-iii.github.io/portfolio.github.io/pics/quake.webp" alt="E1M1_quake" position="center" style="border-radius: 8px;" caption="Carte 1 - Episode 1 de Quake (E1M1)" captionPosition="right" captionStyle="color: black;" >}}
 
 On peut déjà voir une améioration des graphismes, on à finalement des textures
 sur chaque modèle 3D, et utilise la technologie OpenGL afin de toujours rester

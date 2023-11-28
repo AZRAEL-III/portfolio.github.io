@@ -10,7 +10,7 @@ Voici le tout premier moteur de jeux open-source de l'histoire d'Internet.
 Conçu par [_John Carmack_](https://azrael-iii.github.io/portfolio.github.io/carmack) en 1991, ce moteur de
 jeu est le tout premier moteur ayant le pouvoir d'offrir des plafonds au format
 bitmap.
-[![Photo Wolfenstein 3D](https://azrael-iii.github.io/portfolio.github.io/pics/Wolf_Engine.webp)](https://azrael-iii.github.io/portfolio.github.io/pics/Wolf_Engine.webp)
+{{<figure src="https://azrael-iii.github.io/portfolio.github.io/pics/wolf_engine.webp" alt="Wolfenstein 3D COVER" position="center" style="border-radius: 8px;" caption="Démonstration du moteur de John Carmack" captionPosition="right" captionStyle="color: black;" >}}
 
 Ce moteur de jeux est très important car il permettra à [_ID Software_](https://azrael-iii.github.io/portfolio.github.io/id_software)
 de se lancer dans le monde du jeu vidéo, on va voir plus tard pourquoi ce studio
@@ -113,11 +113,12 @@ Le moteur offre néanmoins des murs texturés, des portes, des sprites pour les
 ennemis, les objets et les lumières statiques.
 
 _Avant le rendu :_
-![Map grid Wolfenstein 3D](https://azrael-iii.github.io/portfolio.github.io/pics/WOLF3D_MAP.webp)
+{{<figure src="https://azrael-iii.github.io/portfolio.github.io/pics/WOLF3d_MAP.webp" alt="map_ed" position="center" style="border-radius: 8px;" caption="Exemple d'une carte dans l'éditeur de Wolfenstein 3D" captionPosition="right" captionStyle="color: black;" >}}
 
 _Après le rendu :_
-![In-game Wolfenstein 3D](https://azrael-iii.github.io/portfolio.github.io/pics/wolf3d_screenshot.webp)
+{{<figure src="https://azrael-iii.github.io/portfolio.github.io/pics/wolf3d_screenshot.webp" alt="Ingame_scr" position="center" style="border-radius: 8px;" caption="Capture d'écran in-game de Wolfenstein 3D" captionPosition="right" captionStyle="color: black;" >}}
 ***
+
 **À la page suivante, on va parler du troisième grand moteur de jeux qui
 révolutionnera le jeux vidéo et le monde de la 3D en général (il est aussi crée
 par John Carmack)**
