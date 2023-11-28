@@ -39,6 +39,11 @@ chaque animation ).
 
 {{<figure src="https://azrael-iii.github.io/portfolio.github.io/pics/skeleton_bodies.webp" alt="Exemple de Voxel" position="center" style="border-radius: 8px;" caption="Voici un squelette sur Unreal" captionPosition="right" captionStyle="color: black;" >}}
 
+Avoir un système de squelette d'animation permet de créer pls efficacement des
+animations sans avoir à utiliser beaucoup d'espace (comparé à l'ancien système
+d'animation introduit par ID Software avec son moteur ID Tech Engine 1 dans le
+jeu quake, dans lequel les animations étaient faites en bougeant des groupes de
+vertrices image par image, pour donner une animation plutôt fluide)
 
 ***
 <div align="left"><button onclick="window.location.href='https://azrael-iii.github.io/portfolio.github.io/veille/veille_p3';">Precédent</button></div> 
