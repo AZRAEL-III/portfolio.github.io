@@ -1,9 +1,7 @@
----
-title: "La Veille Technologique"
-draft: false
----
-***
-### Je vais vous présenter ma Veille technologique
++++
+title = "Ma Veille Technologique"
+draft = false
++++
 J'ai pris pour thème : _Les moteurs de jeux_
 ***
 Des moteurs de jeux, il y en à plein : Du très compliqué, modulaire au possible,
