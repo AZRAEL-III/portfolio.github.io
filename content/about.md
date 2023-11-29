@@ -25,9 +25,9 @@ maintenance informatique et l'installation ( et la configuration ) de serveurs.
 1. 4 semaines de stages à Oméga Informatique à Plouay (Technicien Informatique,
 Installation et mise en place de serveurs informatique pour des professionnels
 et des particuliers).
-1. 4 semaines de stages à J'Ty Connect à Quiberon (Technicien Informatique, 
+2. 4 semaines de stages à J'Ty Connect à Quiberon (Technicien Informatique, 
 vente de produits informatiques et relation clientelle)
-1. 8 semaines de stages à J'Ty Connect à Quiberon (idem, mais j'ai également
+3. 8 semaines de stages à J'Ty Connect à Quiberon (idem, mais j'ai également
 fait de la facturation et de la gestion-comptabilité des clients et des devis 
 clients)
 
