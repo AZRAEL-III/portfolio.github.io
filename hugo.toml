@@ -1,5 +1,5 @@
 baseURL = 'https://azrael-iii.github.io/portfolio.github.io/'
-languageCode = 'fr-fr'
+languageCode = 'en-us'
 title = 'Portfolio'
 theme = 'terminal'
 
@@ -25,3 +25,25 @@ theme = 'terminal'
   updatedDatePrefix = "Mis à jour"
   Toc = true
   TocTitle = "Index"
+  
+[languages]
+  [languages.en]
+    languageName = "Français"
+    title = "Portfolio"
+    subtitle = ""
+    owner = "Vincent Hascoet"
+    keywords = ""
+    copyright = ""
+    menuMore = "Voir plus"
+    readMore = "Lire plus"
+    readOtherPosts = "Lire d'autres publications"
+    newerPosts = "Publications récentes"
+    olderPosts = "Anciennes publications"
+    missingContentMessage = "Page non trouvée..."
+    missingBackButtonLabel = "Retour à l'accueil"
+    minuteReadingTime = "minutes de lecture"
+    words = "mots"
+
+    [languages.en.params.logo]
+      logoText = "Portfolio"
+      logoHomeLink = "/"
