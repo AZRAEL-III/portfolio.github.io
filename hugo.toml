@@ -20,3 +20,8 @@ theme = 'terminal'
 
 [params]
   enableEmoji= true
+  themeColor = "green"
+  fullWidthTheme = true
+  updatedDatePrefix = "Mis à jour"
+  Toc = true
+  TocTitle = "Index"
