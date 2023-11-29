@@ -23,7 +23,7 @@ theme = 'terminal'
   themeColor = "green"
   fullWidthTheme = true
   updatedDatePrefix = "Mis à jour"
-  Toc = true
+  Toc = false
   TocTitle = "Index"
   
 [languages]
@@ -31,9 +31,9 @@ theme = 'terminal'
     languageName = "Français"
     title = "Portfolio"
     subtitle = ""
-    owner = "Vincent Hascoet"
+    owner = "Vincent Hascoët"
     keywords = ""
-    copyright = ""
+    copyright = "2023 - Hascoët Vincent"
     menuMore = "Voir plus"
     readMore = "Lire plus"
     readOtherPosts = "Lire d'autres publications"
@@ -46,4 +46,4 @@ theme = 'terminal'
 
     [languages.en.params.logo]
       logoText = "Portfolio"
-      logoHomeLink = "/"
+      logoHomeLink = "https://azrael-iii.github.io/portfolio.github.io/"
