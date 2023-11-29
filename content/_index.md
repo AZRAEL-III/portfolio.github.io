@@ -1,3 +1,8 @@
++++
+draft = false
+custom_title_enabled = true
+custom_title_value = Study
++++
 ***
 Bonjour,
 # Je m'appelle _**Vincent Hascoët**_
