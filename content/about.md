@@ -22,14 +22,17 @@ maintenance informatique et l'installation ( et la configuration ) de serveurs.
 ***
 ### - _Stages effectués_
 ***
-1. 4 semaines de stages à Oméga Informatique à Plouay (Technicien Informatique,
+- **1)** 4 semaines de stages à Oméga Informatique à Plouay (Technicien Informatique,
 Installation et mise en place de serveurs informatique pour des professionnels
 et des particuliers).
-2. 4 semaines de stages à J'Ty Connect à Quiberon (Technicien Informatique, 
+
+- **2)** 4 semaines de stages à J'Ty Connect à Quiberon (Technicien Informatique, 
 vente de produits informatiques et relation clientelle)
-3. 8 semaines de stages à J'Ty Connect à Quiberon (idem, mais j'ai également
+
+- **3)** 8 semaines de stages à J'Ty Connect à Quiberon (idem, mais j'ai également
 fait de la facturation et de la gestion-comptabilité des clients et des devis 
 clients)
+***
 
 |[![CV](https://azrael-iii.github.io/portfolio.github.io/pics/pdf.png)](https://azrael-iii.github.io/portfolio.github.io/docs/CV_Vincent_Hascoet.pdf)|[![Lettre de motivation](https://azrael-iii.github.io/portfolio.github.io/pics/pdf.png)](https://azrael-iii.github.io/portfolio.github.io/docs/Lettre_de_Motivation_Vincent_Hascoet.pdf)|
 |---|---|
