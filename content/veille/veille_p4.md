@@ -46,5 +46,5 @@ vertrices image par image, pour donner une animation plutôt fluide mais qui
 était très mal implémentable avec l'évolution des ordinateurs de l'époque et
 donc, du nombre de vertrices possibles par modèle 3D )
 ***
-<div align="left"><button onclick="window.location.href='https://azrael-iii.github.io/portfolio.github.io/veille/veille_p3';">Precédent</button></div> 
-<div align="right"><button onclick="window.location.href='https://azrael-iii.github.io/portfolio.github.io/veille/veille_p5';">Suivant</button></div>
+<div align="left"><button onclick="window.location.href='https://azrael-iii.github.io/portfolio.github.io/veille/veille_p3';">< Precédent</button></div> 
+<div align="right"><button onclick="window.location.href='https://azrael-iii.github.io/portfolio.github.io/veille/veille_p5';">Suivant ></button></div>

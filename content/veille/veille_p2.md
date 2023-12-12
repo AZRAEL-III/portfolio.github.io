@@ -122,7 +122,8 @@ _Après le rendu :_
 révolutionnera le jeux vidéo et le monde de la 3D en général (il est aussi crée
 par John Carmack)**
 
-<div align="left"> <button onclick="window.location.href='https://azrael-iii.github.io/portfolio.github.io/veille/veille';">Precédent</button> <div align="right"><button onclick="window.location.href='https://azrael-iii.github.io/portfolio.github.io/veille/veille_p3';">Suivant</button>
+<div align="left"><button onclick="window.location.href='https://azrael-iii.github.io/portfolio.github.io/veille/veille';">< Precédent</button>
+<div align="right"><button onclick="window.location.href='https://azrael-iii.github.io/portfolio.github.io/veille/veille_p3';">Suivant ></button>
 
 ***
 [Mon profil](https://azrael-iii.github.io/portfolio.github.io/about)

@@ -181,7 +181,8 @@ même manière, mais pour chaque pixel d'une scène 3D afin de calculer en temps
 réel la lumière d'une scène en 3D.
 ***
 
-<div align="left"><button onclick="window.location.href='https://azrael-iii.github.io/portfolio.github.io/veille/veille_p2';">Precédent</button><div align="right"><button onclick="window.location.href='https://azrael-iii.github.io/portfolio.github.io/veille/veille_p4';">Suivant</button>
+<div align="left"><button onclick="window.location.href='https://azrael-iii.github.io/portfolio.github.io/veille/veille_p2';">< Precédent</button>
+<div align="right"><button onclick="window.location.href='https://azrael-iii.github.io/portfolio.github.io/veille/veille_p4';">Suivant ></button>
 
 
 ***
