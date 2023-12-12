@@ -7,8 +7,8 @@ flipper en 3D pour en faire une démo technique qui lui permettra de tester ses
 compétences dessus, dont un système permettant d'afficher et d'étirer des
 textures afin de fausser de la 3D, c'est du _*parralax*_, il se mettra au
 travail et réussira à sortir, en 1995 : Un moteur 3D innovant qui permettra de
-faire de la simulation de fluides (très primitive selon nos standards de
-maintenant), des systèmes de brouillards ambiant, des effets utilisant des
+faire de la simulation de fluides ( très primitive selon nos standards de
+maintenant ), des systèmes de brouillards ambiant, des effets utilisant des
 voxels, des reflets dynamiques.
 
 Voilà la démo technique en question :
@@ -38,12 +38,13 @@ chaque animation ).
 
 {{<figure src="https://azrael-iii.github.io/portfolio.github.io/pics/skeleton_bodies.webp" alt="Exemple de Voxel" position="center" style="border-radius: 8px;" caption="Voici un squelette sur Unreal" captionPosition="right" captionStyle="color: black;" >}}
 
-Avoir un système de squelette d'animation permet de créer pls efficacement des
+Avoir un système de squelette d'animation permet de créer plus efficacement des
 animations sans avoir à utiliser beaucoup d'espace (comparé à l'ancien système
 d'animation introduit par ID Software avec son moteur ID Tech Engine 1 dans le
 jeu quake, dans lequel les animations étaient faites en bougeant des groupes de
-vertrices image par image, pour donner une animation plutôt fluide)
-
+vertrices image par image, pour donner une animation plutôt fluide mais qui
+était très mal implémentable avec l'évolution des ordinateurs de l'époque et
+donc, du nombre de vertrices possibles par modèle 3D )
 ***
 <div align="left"><button onclick="window.location.href='https://azrael-iii.github.io/portfolio.github.io/veille/veille_p3';">Precédent</button></div> 
 <div align="right"><button onclick="window.location.href='https://azrael-iii.github.io/portfolio.github.io/veille/veille_p5';">Suivant</button></div>
